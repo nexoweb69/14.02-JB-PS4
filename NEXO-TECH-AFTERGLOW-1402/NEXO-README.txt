@@ -1,0 +1,1 @@
+NEXO TECH interface based on Afterglow source. Original authors and AGPL-3.0 license retained. Run from the landing index.html; do not open jb.html directly. Start with python -m http.server 8080 in this directory for a local display test. This does not guarantee a working exploit on firmware 14.02. Offline appcache disabled for first testing.
